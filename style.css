@@ -118,9 +118,8 @@ h2 {
       left: 0;
       transform: none;
     }
-
-
   }
+
 
 h3 {
   color: #f2f2f2;
@@ -130,9 +129,13 @@ h3 {
 h2 {
   color: #f2f2f2;
   text-align: center;
-  font-size: 30px;
-}
+  font-size: 25px;
 
+
+
+
+
+}
 .opening-times {
   color:white;
   text-align: center;
@@ -189,11 +192,10 @@ h2 {
 } 
 
 
-
-
 .flex-container {
   display: flex;
   background-color: rgba(30, 143, 255, 0);
+  
 }
 
 .flex-container > div {
@@ -202,3 +204,4 @@ h2 {
   padding: 20px;
   font-size: 30px;
 }
+
