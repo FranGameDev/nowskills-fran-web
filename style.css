@@ -152,6 +152,7 @@ h3 {
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
+  backface-visibility: hidden
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
